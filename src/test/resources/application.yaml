@@ -1,0 +1,4 @@
+request_limit:
+  request_number: 1
+  in_time_min: 1
+  cron_remove_old_millis: 100

@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+request_limit:
+  request_number: 10
+  in_time_min: 1
+  cron_remove_old_millis: 60000
